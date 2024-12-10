@@ -81,8 +81,4 @@ Hello! I'm **Rageswari Sivaraman**, a BTech student at SASTRA University, specia
 
 ---
 
-## How to Use
 
-1. Clone or download the repository.
-   ```bash
-   git clone <repository-url>
